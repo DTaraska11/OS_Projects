@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/domin/CLionProjects/server/main.c
+server.h
+/cygdrive/c/Users/domin/CLionProjects/server/server.h
+
+/cygdrive/c/Users/domin/CLionProjects/server/open_listenfd.c
+server.h
+/cygdrive/c/Users/domin/CLionProjects/server/server.h
+
+/cygdrive/c/Users/domin/CLionProjects/server/server.h
+pthread.h
+-
+stdio.h
+-
+string.h
+-
+sys/types.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+unistd.h
+-
+sys/socket.h
+-
+
+/cygdrive/c/Users/domin/CLionProjects/server/utility.c
+server.h
+/cygdrive/c/Users/domin/CLionProjects/server/server.h
+
